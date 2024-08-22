@@ -60,7 +60,7 @@ of the first image pixel is (0,0).
 
  ``dpx = w.det2im(inpix,1)``
 
-2. Aply the SIP polynomial distortion
+2. Apply the SIP polynomial distortion
 
  ``spx = w.sip_pix2foc(dpx, 1)``
  
